@@ -98,3 +98,4 @@ python3 live_dashboard.py --replay data/20261102_163730_validation_v2_soc.csv --
 ---
 
 Built by Meet Deore.
+https://youtu.be/0Chgdc4czFs
