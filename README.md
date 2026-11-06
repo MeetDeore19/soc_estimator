@@ -4,7 +4,7 @@ A battery monitor for a four-cell LFP pack that estimates state of charge (SOC) 
 
 In validation over a full 3.3-hour discharge, the estimate stayed within **0.49% RMS** of the true SOC, with a worst-case error of **1.3%**.
 
-**Demo video:** [link]  ·  **Full write-up:** [link]
+**Demo video:** https://youtu.be/0Chgdc4czFs 
 
 ![Software pipeline](results/software_pipeline.png)
 
