@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Video files (too large for GitHub; the demo video is linked in the README)
+*.mp4
+*.mov
+*.m4a
+demo_video_assets/
+
+# CALCE public dataset (third-party; download it from the CALCE website)
+calce/
+calce_plots/*.csv
+
+# Regenerated outputs
+characterisation_results/

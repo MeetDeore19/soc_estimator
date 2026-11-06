@@ -1,0 +1,14 @@
+File: 20261102_163730_validation_v2.csv
+Rows: 11768, duration 3.27 h, dropouts > 30 s: 0
+Voltage spikes removed: 6
+Model: capacity 6.086 Ah, R1 8.4 mOhm / tau1 35 s, R2 8.0 mOhm / tau2 1043 s
+Start SOC (EKF): 100.0%   End SOC: 0.0%
+Learned current offset at end: +0.0043 A
+Voltage model error (rms, measured - predicted): 9.6 mV
+
+ACCURACY vs hindsight reference (after the first 30 min)
+  Charge removed (corrected): 6.108 Ah, reference end SOC -0.4%
+  EKF RMS error:              0.49%   max 1.28%
+  EKF RMS, flat zone 30-80%:  0.45%
+  EKF RMS, near full/empty:   0.53%
+  Coulomb-only RMS error:     0.10%   max 0.36%

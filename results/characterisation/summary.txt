@@ -1,0 +1,16 @@
+CHARACTERISATION SUMMARY
+============================================================
+File:                     20261030_124828_characterisation_v3.csv
+Duration:                 12.48 h, 44035 readings, ESP32 restarts: 0
+Load steps found:         10 (last one ended by the BMS cut-off)
+Glitches removed:         240 voltage rows, 22 current rows
+Rest offsets (A):         -0.027, -0.029, -0.023, -0.023, -0.020, -0.024, -0.025, -0.025, -0.024, -0.021, -0.012
+Raw counted charge:       5.804 Ah (logger, no offset correction)
+CAPACITY (corrected):     6.086 Ah to BMS cut-off
+Mean-cell OCV at 100%:    3.3800 V
+Mean-cell OCV after trip: 2.8633 V
+Typical R0 (mean cell):   16.0 mOhm
+Typical R1 (mean cell):   10.6 mOhm
+Typical C1 (mean cell):   68470 F
+1-RC fit error (median):  1.67 mV
+2-RC fit (median):        R1 8.4 mOhm, tau1 32 s | R2 8.0 mOhm, tau2 988 s | error 0.87 mV
